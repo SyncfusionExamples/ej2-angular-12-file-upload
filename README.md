@@ -1,4 +1,4 @@
-# Angular12 UploaderApp
+# Angular12 File Upload
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
